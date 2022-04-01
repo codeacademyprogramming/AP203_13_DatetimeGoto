@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\bin\Debug\netcoreapp3.1\StructAndDatetime.exe
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\bin\Debug\netcoreapp3.1\StructAndDatetime.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\bin\Debug\netcoreapp3.1\StructAndDatetime.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\bin\Debug\netcoreapp3.1\StructAndDatetime.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\bin\Debug\netcoreapp3.1\StructAndDatetime.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\bin\Debug\netcoreapp3.1\StructAndDatetime.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.dll
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.pdb
+C:\Users\Eagha\Desktop\CodeLessons\AP203\13. 01-04-2022\01042022\StructAndDatetime\obj\Debug\netcoreapp3.1\StructAndDatetime.genruntimeconfig.cache
